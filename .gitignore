@@ -48,3 +48,7 @@ Temporary Items
 *.cbp
 Running.depend
 *.o
+*.layout
+bin/Debug/Running.exe
+Record Files/runningrecords.txt
+Record Files/runningrecordsbackup.txt
