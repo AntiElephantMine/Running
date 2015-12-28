@@ -6,6 +6,8 @@
 #include <iomanip> //for setw(n)
 #include <algorithm>
 #include <numeric>
+#include <exception>
+#include <stdexcept>
 #include "Record.h"
 
 using namespace std;

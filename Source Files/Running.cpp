@@ -6,6 +6,8 @@
 #include <algorithm> //for for_each
 #include <ctime> //for date
 #include <iomanip>
+#include <exception>
+#include <stdexcept>
 #include "Record.h"
 
 using namespace std;
