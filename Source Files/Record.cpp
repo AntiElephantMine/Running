@@ -32,7 +32,7 @@ bool doubleCompare(const double& x, const double& y, const char& c){
     if(c == '>'){
         return (x > y && absolute(x-y) >= epsilon);
     }
-    if(c == '=='){
+    if(c == '='){
         return (absolute(x-y) < epsilon);
     }
     else throw runtime_error("Invalid units specified for doubleCompare().");
